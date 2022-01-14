@@ -1,0 +1,39 @@
+controls
+
+flower game:
+1a
+"Johann Wolfgang von Goethe"
+walk = arrow keys
+pick flower = 'e'
+confirm = 'enter'
+
+
+room game:
+1b
+"don't question the pilot"
+walk = arrow keys
+interact = space bar
+
+
+desert game:
+1c
+"un coup de dés jamais, jamais, jamais n'abolira le hasard???"
+walk = arrow keys
+
+plow game:
+1d
+"tell me farm read me plow"
+walk = arrow keys
+
+
+
+2. antisynthesis
+
+
+
+3. introduction
+
+
+4. trip me up, facebook.
+
+
